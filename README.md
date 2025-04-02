@@ -19,10 +19,14 @@ Aquí una lista de plugins que suelo utilizar según la necesidad del proyecto:
 - Wordfence Security
 - Sucuri Security
 - WPS Hide Login
+- Security Optimizer
+- Two Factor Authentication
 
 #### 🚀 Optimización
 - WP Super Cache
 - Autoptimize
+- LiteSpeed Cache
+- Speculative Loading
 
 #### 📧 Formularios
 - Contact Form 7
@@ -31,6 +35,18 @@ Aquí una lista de plugins que suelo utilizar según la necesidad del proyecto:
 #### 🔍 SEO
 - Yoast SEO
 - Rank Math
+
+#### Configuraiones 
+- Easy WP SMTP
+
+#### 🔍 Carpetas Organización
+- FileBird
+
+#### 🔍 Manejo de tablas
+- TablePress
+
+#### 🔍 Social
+- WordPress WhatsApp Support
 
 ## 🎯 Objetivo
 Este repositorio busca ser una referencia rápida para recordar configuraciones, plugins y fragmentos de código esenciales para WordPress.
