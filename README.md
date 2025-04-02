@@ -37,5 +37,8 @@ Este repositorio busca ser una referencia rápida para recordar configuraciones,
 ## 📖 Uso
 Para utilizar los snippets, simplemente copia y pega el código en el archivo correspondiente (por ejemplo, `functions.php` del tema activo).
 
+## 📜 Licencia
+Este repositorio está bajo la **MIT License**. Puedes usar, modificar y distribuir el código libremente, pero debes incluir el aviso de licencia. Consulta el archivo `LICENSE` para más detalles.
+
 ---
 ✍️ **Contribuciones**: Si tienes sugerencias o mejoras, ¡haz un pull request! 😃
