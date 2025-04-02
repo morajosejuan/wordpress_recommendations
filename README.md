@@ -45,6 +45,7 @@ Este repositorio busca ser una referencia rápida para recordar configuraciones,
 .site-header{
     display: none;
 }
+![code](https://github.com/morajosejuan/wordpress_recommendations/blob/main/css.css)
 
 ![image](https://github.com/user-attachments/assets/16e513c4-b29d-42cf-ab88-90364589c225)
 
