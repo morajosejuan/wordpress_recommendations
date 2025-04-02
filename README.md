@@ -18,6 +18,7 @@ Aquí una lista de plugins que suelo utilizar según la necesidad del proyecto:
 #### 🛡️ Seguridad
 - Wordfence Security
 - Sucuri Security
+- WPS Hide Login
 
 #### 🚀 Optimización
 - WP Super Cache
