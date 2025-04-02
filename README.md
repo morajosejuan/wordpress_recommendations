@@ -35,6 +35,20 @@ Aquí una lista de plugins que suelo utilizar según la necesidad del proyecto:
 ## 🎯 Objetivo
 Este repositorio busca ser una referencia rápida para recordar configuraciones, plugins y fragmentos de código esenciales para WordPress.
 
+## :writing_hand: Code
+/* Ocultar footer en WordPress */
+.site-footer {
+    display: none;
+}
+
+/* Ocultar header en WordPress */
+.site-header{
+    display: none;
+}
+
+![image](https://github.com/user-attachments/assets/16e513c4-b29d-42cf-ab88-90364589c225)
+
+
 ## 📖 Uso
 Para utilizar los snippets, simplemente copia y pega el código en el archivo correspondiente (por ejemplo, `functions.php` del tema activo).
 
